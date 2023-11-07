@@ -1,0 +1,299 @@
+[
+    {
+        id = 501,
+        meanings = [
+            {
+                id = 30686,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/7016536d8b03dbfe33086ce8e7e0b6c1.png?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/7016536d8b03dbfe33086ce8e7e0b6c1.png?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=%CB%88de%C9%AAt%C9%99&transcription=1",
+                transcription = "\U02c8de\U026at\U0259",
+                translation = {
+                    note = "<null>",
+                    text = "\U0434\U0430\U043d\U043d\U044b\U0435",
+                }
+            },
+            {
+                id = 234284,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/95e10db485099c460c57f2a3209f0305.png?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/95e10db485099c460c57f2a3209f0305.png?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=data",
+                transcription = "\U02c8de\U026at\U0259",
+                translation = {
+                    note = "<null>",
+                    text = "\U0434\U0430\U043d\U043d\U044b\U0435 ",
+                }
+            },
+            {
+                id = 237791,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/f921b913c369a765293deecdbecef90d.jpeg?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/f921b913c369a765293deecdbecef90d.jpeg?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=data",
+                transcription = "\U02c8de\U026at\U0259",
+                translation = {
+                    note = "<null>",
+                    text = "\U0434\U0430\U043d\U043d\U044b\U0435",
+                }
+            }
+        ]
+        text = data,
+    },
+    {
+        id = 27240,
+        meanings = [
+            {
+                id = 161065,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/0f6965201a7442020811c063796b5100.jpeg?w=640&h=480",
+                partOfSpeechCode = j,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/0f6965201a7442020811c063796b5100.jpeg?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=data-based",
+                transcription = "\U02c8de\U026at\U0259 be\U026ast",
+                translation = {
+                    note = "<null>",
+                    text = "\U043e\U0441\U043d\U043e\U0432\U0430\U043d\U043d\U044b\U0439 \U043d\U0430 \U0434\U0430\U043d\U043d\U044b\U0445",
+                }
+            }
+        ]
+        text = "data-based",
+    },
+    {
+        id = 62882,
+        meanings = [
+            {
+                id = 53851,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/12f22eced7f46bc1cb49399efc59e335.jpeg?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/12f22eced7f46bc1cb49399efc59e335.jpeg?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=data+file",
+                transcription = "\U02c8de\U026at\U0259 fa\U026al",
+                translation = {
+                    note = "",
+                    text = "\U0444\U0430\U0439\U043b \U0434\U0430\U043d\U043d\U044b\U0445",
+                }
+            }
+        ]
+        text = "data file",
+    },
+    {
+        id = 63206,
+        meanings = [
+            {
+                id = 61896,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/a862690cc3807f090b1179c84912e9f9.jpeg?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/a862690cc3807f090b1179c84912e9f9.jpeg?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=data+link",
+                transcription = "\U02c8de\U026at\U0259 l\U026a\U014bk",
+                translation = {
+                    note = "",
+                    text = "\U043a\U0430\U043d\U0430\U043b \U043f\U0435\U0440\U0435\U0434\U0430\U0447\U0438 \U0434\U0430\U043d\U043d\U044b\U0445",
+                }
+            }
+        ]
+        text = "data link",
+    },
+    {
+        id = 119638,
+        meanings = [
+            {
+                id = 7374,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/5863f8e3b9c4b26644caa442a4836803.png?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/5863f8e3b9c4b26644caa442a4836803.png?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=data+encryption",
+                transcription = "\U02c8de\U026at\U0259 \U026an\U02c8kr\U026ap\U0283(\U0259)n",
+                translation = {
+                    note = "",
+                    text = "\U0448\U0438\U0444\U0440\U043e\U0432\U0430\U043d\U0438\U0435 \U0434\U0430\U043d\U043d\U044b\U0445",
+                }
+            }
+        ]
+        text = "data encryption",
+    },
+    {
+        id = 172588,
+        meanings = [
+            {
+                id = 246512,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/4dfc15a3bc0ba06f00f2acedf85b2d57.png?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/4dfc15a3bc0ba06f00f2acedf85b2d57.png?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=data+validation",
+                transcription = "\U02c8de\U026at\U0259 \U02ccv\U00e6l\U026a\U02c8de\U026a\U0283\U0259n",
+                translation = {
+                    note = "<null>",
+                    text = "\U043f\U0440\U043e\U0432\U0435\U0440\U043a\U0430 \U043f\U0440\U0430\U0432\U0438\U043b\U044c\U043d\U043e\U0441\U0442\U0438 \U0434\U0430\U043d\U043d\U044b\U0445",
+                }
+            }
+        ]
+        text = "data validation",
+    },
+    {
+        id = 172630,
+        meanings = [
+            {
+                id = 246558,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/cdfe5113c7c54caf57c27bfee2499637.png?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/cdfe5113c7c54caf57c27bfee2499637.png?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=source+data",
+                transcription = "s\U0254\U02d0s \U02c8de\U026at\U0259",
+                translation = {
+                    note = "<null>",
+                    text = "\U0438\U0441\U0445\U043e\U0434\U043d\U044b\U0435 \U0434\U0430\U043d\U043d\U044b\U0435",
+                }
+            }
+        ]
+        text = "source data",
+    },
+    {
+        id = 176327,
+        meanings = [
+            {
+                id = 250700,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/54c804f7d51ad442b88db7f0d6174cbb.png?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/54c804f7d51ad442b88db7f0d6174cbb.png?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=multivariate+data",
+                transcription = "\U02c8de\U026at\U0259",
+                translation = {
+                    note = "<null>",
+                    text = "\U043c\U043d\U043e\U0433\U043e\U043c\U0435\U0440\U043d\U044b\U0435 \U0434\U0430\U043d\U043d\U044b\U0435",
+                }
+            }
+        ]
+        text = "multivariate data",
+    },
+    {
+        id = 181673,
+        meanings = [
+            {
+                id = 258307,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/f4ffd5ce926db934f9711501d770c5c9.png?w=640&h=480",
+                partOfSpeechCode = ph,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/f4ffd5ce926db934f9711501d770c5c9.png?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=massive+data",
+                transcription = "",
+                translation = {
+                    note = "",
+                    text = "\U0431\U043e\U043b\U044c\U0448\U0438\U0435 \U0434\U0430\U043d\U043d\U044b\U0435",
+                }
+            }
+        ]
+        text = "massive data",
+    },
+    {
+        id = 181677,
+        meanings = [
+            {
+                id = 258311,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/9f2368778e0bef202e0c6a858e9978b4.png?w=640&h=480",
+                partOfSpeechCode = ph,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/9f2368778e0bef202e0c6a858e9978b4.png?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=highlight+data",
+                transcription = "",
+                translation = {
+                    note = "",
+                    text = "\U0432\U044b\U0434\U0435\U043b\U044f\U0442\U044c \U0434\U0430\U043d\U043d\U044b\U0435",
+                }
+            }
+        ]
+        text = "highlight data",
+    },
+    {
+        id = 88753,
+        meanings = [
+            {
+                id = 201060,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/473841c6be7eb78a0c4ac491a84da900.jpeg?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/473841c6be7eb78a0c4ac491a84da900.jpeg?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=data+mining",
+                transcription = "\U02c8de\U026at\U0259 \U02c8ma\U026an\U026a\U014b",
+                translation = {
+                    note = "",
+                    text = "\U0438\U043d\U0442\U0435\U043b\U043b\U0435\U043a\U0442\U0443\U0430\U043b\U044c\U043d\U044b\U0439 \U0430\U043d\U0430\U043b\U0438\U0437 \U0434\U0430\U043d\U043d\U044b\U0445",
+                }
+            }
+        ]
+        text = "data mining",
+    },
+    {
+        id = 108064,
+        meanings = [
+            {
+                id = 212275,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/719249f664b2d2613675130595ff7182.jpeg?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/719249f664b2d2613675130595ff7182.jpeg?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=data+structure",
+                transcription = "\U02c8de\U026at\U0259 \U02c8str\U028ck\U02a7\U0259",
+                translation = {
+                    note = "<null>",
+                    text = "\U0441\U0442\U0440\U0443\U043a\U0442\U0443\U0440\U0430 \U0434\U0430\U043d\U043d\U044b\U0445",
+                }
+            }
+        ]
+        text = "data structure",
+    },
+    {
+        id = 172172,
+        meanings = [
+            {
+                id = 246064,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/089cb6fd40292afffa6212b6b66c70ba.png?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/089cb6fd40292afffa6212b6b66c70ba.png?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=generic+data",
+                transcription = "\U02a4\U026a\U02c8n\U025br\U026ak \U02c8de\U026at\U0259",
+                translation = {
+                    note = "<null>",
+                    text = "\U043e\U0431\U043e\U0431\U0449\U0435\U043d\U043d\U044b\U0435 \U0434\U0430\U043d\U043d\U044b\U0435",
+                }
+            }
+        ]
+        text = "generic data",
+    },
+    {
+        id = 172590,
+        meanings = [
+            {
+                id = 246514,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/5ff754fb7da35321c0acc9e6f0a946a8.jpeg?w=640&h=480",
+                partOfSpeechCode = j,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/5ff754fb7da35321c0acc9e6f0a946a8.jpeg?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=data-driven",
+                transcription = "\U02c8de\U026at\U0259 \U02c8dr\U026avn",
+                translation = {
+                    note = "<null>",
+                    text = "\U0443\U043f\U0440\U0430\U0432\U043b\U044f\U0435\U043c\U044b\U0439 \U0434\U0430\U043d\U043d\U044b\U043c\U0438",
+                }
+            }
+        ]
+        text = "data-driven",
+    },
+    {
+        id = 173265,
+        meanings = [
+            {
+                id = 247222,
+                imageUrl = "//d2zkmv5t5kao9.cloudfront.net/images/48633defe0c0015c5516771dd6a43686.png?w=640&h=480",
+                partOfSpeechCode = n,
+                previewUrl = "//d2zkmv5t5kao9.cloudfront.net/images/48633defe0c0015c5516771dd6a43686.png?w=96&h=72",
+                soundUrl = "//d2fmfepycn0xw0.cloudfront.net?gender=male&accent=british&text=measurement+data",
+                transcription = "\U02c8m\U025b\U0292\U0259m\U0259nt \U02c8de\U026at\U0259",
+                translation = {
+                    note = "<null>",
+                    text = "\U0434\U0430\U043d\U043d\U044b\U0435 \U0438\U0437\U043c\U0435\U0440\U0435\U043d\U0438\U0439",
+                }
+            }
+        ]
+        text = "measurement data",
+    }
+]
+ 
+ 
+
